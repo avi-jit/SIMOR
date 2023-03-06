@@ -1,0 +1,6 @@
+https://www.semanticscholar.org/paper/Multi-Reference-Training-with-Pseudo-References-for-Zheng-Ma/9a716bf565445740f47243bfde06398ded224cb4
+https://www.semanticscholar.org/paper/Improving-Simultaneous-Translation-by-Incorporating-Chen-Zheng/27902aaa105053b15b66ad2b3384b91734878edf
+https://www.semanticscholar.org/paper/Improving-Simultaneous-Translation-with-Pseudo-Chen-Zheng/2730fad5b82aac0bdd76d72b5deb8d256b71f45b
+https://www.semanticscholar.org/paper/Improving-data-augmentation-for-low-resource-with-Mi-Xie/386f3fed6c4d3af27e6ff5e13263ac90ce085ba0
+https://www.semanticscholar.org/paper/Bridging-the-Gap-between-Training-and-Inference%3A-Lin-Yang/8c331703728000f7e6ea6de0ad22b65afb9d3623
+https://www.semanticscholar.org/paper/Multi-Referenced-Training-for-Dialogue-Response-Zhao-Kawahara/1743eb03ec333cf70e22f39e2cd45c61a0052ffc
